@@ -1,0 +1,15 @@
+{
+  "tournament_link": "PvP Тournament",
+  "leaderboard_link": "Hexed Leaderboard",
+  "game_button": "Start playing now",
+  "about_us": "About us",
+  "about_us_text": "We are one of the most popular Mindustry servers in the Russian community, succesfully working over two years. Our list of servers includes both classic modes - Sandbox, Survival, Attack, PvP, and those made by us - Crawler Arena, Tower Defense and others, which you can learn about below.",
+  "atk_text": "Prepare your base by building good infrastructure, then build an army to destroy the enemy base that can send units towards you.",
+  "snd_text": "Design your schematics on a special map where there are no enemies, but there are endless sources of resources.",
+  "sv_text": "Build and upgrade your base to survive as long as possible while endless waves of enemies attack you.",
+  "pvp_text": "Fight against real players. Quickly build your base, improve your infrastructure, create an army and destroy your opponent faster than he can destroy you.",
+  "cw_text": "Competitive mode. Each team has a core and each team needs to destroy the enemy core. Unlike PvP, here you have to buy units and defense for money from the destroyed enemy units.",
+  "hx_text": "Fight against many real players. Capture new sectors and destroy bases of other players. To win, capture most sectors or destroy all players.",
+  "td_text": "Kill enemies to get resources. Upgrade your defenses along the road, along which more and more powerful enemies are endlessly walking in order to destroy your core",
+  "cr_text": "Defend your base against powerful waves of crawlers by using units. Earn money by passing waves to improve your unit"
+}

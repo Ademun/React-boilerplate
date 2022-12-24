@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', 'Source Sans Pro';
+}
+
+a {
+  text-decoration: none;
+  color: #fbfbf9;
+}
+
+body {
+  background-image: url('./images/background.png');
+  display: flex;
+  flex-flow: column wrap;
+}
+
+td {
+  text-align: center;
+  padding: 8px;
+}
+
